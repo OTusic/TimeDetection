@@ -8,3 +8,6 @@ Goal:
   - PLAYING MODE:
       - Flip the pages according to the elapsed times collected from the calibration
       - Flash the LED at each of these times
+
+
+See our final project at: http://poe.olin.edu/2017/Tusic
